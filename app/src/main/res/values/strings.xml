@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ClimaCell</string>
+    <string name="country_flag">Country flag</string>
+    <string name="capital">Capital</string>
+    <string name="country">Country</string>
+    <string name="day_time">Day/Time</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="temp_max">Max Temp</string>
+    <string name="temp_min">Min Temp</string>
+    <string name="title_activity_map">Map</string>
+    <string name="error_loading_data">There was a problem loading the information.\nPlease try again later.</string>
+    <string name="day">Day</string>
+    <string name="temp_celsius">%.2f °C</string>
+    <string name="temp_fahrenheit">%.2f °F</string>
+    <string name="precipitation_mm">%.2f mm/hr</string>
+    <string name="precipitation_in">%.2f in/hr</string>
+    <string name="time">Time</string>
+    <string name="temp">Temp</string>
+    <array name="days_of_week">
+        <item name="sunday">Sun</item>
+        <item name="monday">Mon</item>
+        <item name="tuesday">Tue</item>
+        <item name="wednesday">Wed</item>
+        <item name="thursday">Thu</item>
+        <item name="friday">Fri</item>
+        <item name="saturday">Sat</item>
+    </array>
+</resources>
